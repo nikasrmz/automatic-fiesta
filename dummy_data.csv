@@ -1,0 +1,8 @@
+customer_id,Full Name,email,signup_date,country,age,subscribed
+1,Ana Zed,ana.zed@example.com,2023-01-15,USA,28,yes
+2,George B,GEORGE.B@example.com,2022-11-30,USA,,no
+3,Natia K.,natia@example,2023-03-20,GE,32,Yes
+4,,mari@example.com,2023-04-05,georgia,27,yes
+5,Luka J.,luka.j@example.com,2021-08-12,UK,24,TRUE
+6,Keti L,k.l@example.com,2022-07-19,GEO,30,False
+7,Mariami A,mariami@example.com,invalid-date,,35,yes
